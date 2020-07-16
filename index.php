@@ -1,14 +1,10 @@
 <html>
 <body>
      
-<a href="config.php">configurar</a><br>
-     <button name="button"><a href="config.php">configurar</a></button>
-<a href="delete.php">borrar</a><br>
-<a href="insert.php">Insertar</a><br>
-<a href="read.php">read</a><br>
-<a href="index.php">Inicio</a><br>
-
-
-
+  <button type="button" class="btn"><a href="config.php">configurar</a></button><br>
+   <button type="button" class="btn"><a href="delete.php">borrar</a></button><br>
+   <button type="button" class="btn"><a href="insert.php">Insertar</a></button><br>
+   <button type="button" class="btn"><a href="read.php">read</a></button><br>
+   <button type="button" class="btn"><a href="index.php">Inicio</a></button><br>
 </body>
 </html>
